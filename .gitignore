@@ -7,6 +7,6 @@ __pycache__/
 .idea/
 .vscode/
 
-data_io/
-figures/
-results.json
+**/data_io/
+**/figures/
+**/results.json
