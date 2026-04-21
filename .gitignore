@@ -10,3 +10,10 @@ __pycache__/
 **/data_io/
 **/figures/
 **/results.json
+
+**/data_lab2/
+**/figures_lab2/
+
+lab3/README.md
+lab3/requirements.txt
+lab3/results_lab3/
